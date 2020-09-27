@@ -28,4 +28,6 @@ foi configurado o estilo global, ver arquivo em style/global
 Instalar 
     yarn add polished (para ajudar a manipular o css)
     yarn add react-icons (para ter biblioteca de icone)
-
+7-Consumindo API
+Instalar AXIOS
+    yarn add axios
