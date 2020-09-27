@@ -25,4 +25,7 @@
 foi configurado o estilo global, ver arquivo em style/global
 
 6-Criar os componentes(paginas) e o seus CSS
-(Instalar yarn add polished);
+Instalar 
+    yarn add polished (para ajudar a manipular o css)
+    yarn add react-icons (para ter biblioteca de icone)
+
